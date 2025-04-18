@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://sourav.tech" target="_blank"><strong>🌐 Visit Live Site — sourav.tech</strong></a>
+  <a href="https://my-portfolio-sigma-steel-91.vercel.app/" target="_blank"><strong>🌐 Visit Live Site — sourav.tech</strong></a>
 </p>
 
 <p align="center">
