@@ -1,63 +1,77 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Sourav.tech</a>
-</h2>
+<h1 align="center">
+  🚀 Sourav's Portfolio v2.0
+</h1>
 
+<p align="center">
+  <a href="https://sourav.tech" target="_blank"><strong>🌐 Visit Live Site — sourav.tech</strong></a>
+</p>
 
-<br/>
+<p align="center">
+  A fully responsive personal portfolio website to showcase my skills, projects, experience, and background as a backend-focused full stack developer.<br/>
+  Built with ❤️ using React, Spring Boot (Backend), and deployed on Vercel.
+</p>
 
+<p align="center">
+  🔹 <a href="https://github.com/sourav8908/My-Portfolio/issues">Report Bug</a> &nbsp;&nbsp; 🔹 <a href="https://github.com/sourav8908/My-Portfolio/issues">Request Feature</a>
+</p>
 
+---
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/sourav8908/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/sourav8908/Portfolio/issues">Request Feature</a>
-</h3>
+## 📌 TL;DR
 
-## TL;DR
+> Fork this repo, personalize the content, and make it your own portfolio. If you use my base design or logic, kindly give credit by linking back to [@sourav8908](https://github.com/sourav8908).
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sourav8908](https://github.com/sourav8908/Portfolio). Thanks!
+---
 
-## Built With
+## 👨‍💻 About Me
 
-My personal portfolio <a href="https://my-portfolio-sigma-steel-91.vercel.app/" target="_blank">Sourav.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+I'm **Sourav Mohanty**, a backend developer and software engineer with a strong foundation in **Java, Spring Boot, and SQL**, currently pursuing **M.Tech at IIT Patna** and a recent B.Tech graduate from **GITA, Bhubaneswar**.
 
-This project was built using these technologies.
+With hands-on experience from organizations like **ISRO, Coding Ninjas**, and **Tech-Octa-Net**, I specialize in building scalable backend systems, RESTful APIs, and data-driven products that solve real-world problems.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+🔍 Interests:  
+- Backend & API Engineering  
+- Scalable Web Apps  
+- GenAI + Operations (Future-focused)  
+- Cloud (AWS) + Distributed Systems  
+- Real-Time Applications
 
-## Features
+---
 
-**📖 Multi-Page Layout**
+## ⚙️ Built With
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+This portfolio was developed using the following technologies:
 
-**📱 Fully Responsive**
+- 💻 **React.js**
+- ⚙️ **Node.js + Express.js** (for optional backend)
+- 🎨 **React-Bootstrap** & CSS3
+- 🌍 **Vercel** for Deployment
+- 🛠️ **Visual Studio Code**
 
-## Getting Started
+---
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 💡 Features
 
-## 🛠 Installation and Setup Instructions
+- 📖 **Multi-Page Layout** (About, Projects, Contact, Resume)
+- 🧩 **Component-Based Architecture**
+- 📱 **Fully Responsive Design** – Optimized for all devices
+- 🎨 **Easy to Customize Colors & Themes**
+- 💼 **Resume + Projects Showcase**
+- ☁️ **Deployed on Vercel for blazing fast performance**
 
-1. Installation: `npm install`
+---
 
-2. In the project directory, you can run: `npm start`
+## 📥 Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Clone this repository and run it locally:
 
-## Usage Instructions
+### 🛠 Installation
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+```bash
+git clone https://github.com/sourav8908/Portfolio.git
+cd Portfolio
+npm install
+
 
 ### Show your support
 
