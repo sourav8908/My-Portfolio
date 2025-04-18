@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  🔹 <a href="https://github.com/sourav8908/My-Portfolio/issues">Report Bug</a> &nbsp;&nbsp; 🔹 <a href="https://github.com/sourav8908/My-Portfolio/issues">Request Feature</a>
+  🔹 <a href="https://github.com/sourav8908/Mr.sourav">Report Bug</a> &nbsp;&nbsp; 🔹 <a href="https://github.com/sourav8908/Mr.sourav">Request Feature</a>
 </p>
 
 ---
 
 ## 📌 TL;DR
 
-> Fork this repo, personalize the content, and make it your own portfolio. If you use my base design or logic, kindly give credit by linking back to [@sourav8908](https://github.com/sourav8908).
+> Fork this repo, personalize the content, and make it your own portfolio. If you use my base design or logic, kindly give credit by linking back to [@sourav8908](https://my-portfolio-sigma-steel-91.vercel.app/).
 
 ---
 
