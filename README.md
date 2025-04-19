@@ -19,7 +19,7 @@
 
 ## 📌 TL;DR
 
-> Fork this repo, personalize the content, and make it your own portfolio. If you use my base design or logic, kindly give credit by linking back to [@sourav8908](https://my-portfolio-sigma-steel-91.vercel.app/).
+> Fork this repo, personalize the content, and make it your own portfolio. If you use my base design or logic, kindly give credit by linking back to [@sourav8908](https://sourav8908-portfolio.vercel.app/).
 
 ---
 
